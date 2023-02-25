@@ -3,7 +3,6 @@
 ## Junior Front-end Developer
 *********
 ## **Contacts**
-* **Phone**: +375(44)514-06-61
 * **Email**: [peregudova2008@gmail.com](peregudova2008@gmail.com)
 * **GitHub**: [Sandrainporto](https://github.com/Sandrainporto)
 * **Telegram**: [Sandrainporto](t.me/Sandrainporto)
@@ -11,16 +10,18 @@
   
 *********
 ## **Profile**
- Today I am on my way into the world of front-end development. My youth and sense of purpose will help me to reach good results in these sphere. Several month of self-education and creation of a few html and css constuctions loved me into this subject.\
- Nowadays my aim is to deeper the knowledge of this science, obtain experience in new technologies and methods of front-end development, improve the skills necessary for successful subject proficiency.
+ A few months ago I began my own long journey from a complete Zero in the frontend development sphere to Hero. Several month of self-education made it clear that I want to dive deep into this subject and to follow the best practices and mentors to write clean and high-performance code in order to become a demanded frontend developer that one day will use obtained skills to create uniq and stylish apps that are beautiful outside and intelligent under the hood.
 
 *******
 ## **Skills**
 * **HTML**
-* **CSS**
+* **CSS/SASS**
+* **JavaScript**
+* **React**
+* **BEM**
 * **Git**
 * **GitHub**
-* **VS Сode**
+
   
 -------
 ## **Code examples**
@@ -32,16 +33,17 @@ alert( result );
 
 **********
 ## **Experience**
-Creation of landings using html and css for practice
+Creation of several landing pages, some JavaScript projects.
 
 ******
 ## **Education**
 * #### **Universidade do Porto**
-  * *Faculdade de Letras (2016-2017)*
+  * *The French and English Languages (2016-2017)*
 * #### **Mogilev state A. Kuleshov university**
-  * *The Faculty of Foreign Languages (2014-2019)*
+  * *Romano-Germanic Philology (2014-2019)*
 * ### **Courses**
-  * #### [*The Rolling Scopes School*](https://rs.school/) (*in progress*)
+  * #### [*The Rolling Scopes School (Stage 0)*](https://rs.school/) (*Certificate*)
+  * #### [*The Rolling Scopes School (Stage 1-2)*](https://rs.school/) (*In progress*)
 
 **********
 ## **Languages**
